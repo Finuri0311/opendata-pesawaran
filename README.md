@@ -16,8 +16,6 @@ Berikut ini teknologi yang id gunakan
 - liveware 3
 - support hosting share
 
-## Creating By PT Lokatra Loyal Indonesia (Base On Internet) Location Lampung
-
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
